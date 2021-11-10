@@ -1,0 +1,23 @@
+{
+  "name": "physical-store-data-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmkarato/physical-store-data-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmkarato/physical-store-data-server/issues"
+  },
+  "homepage": "https://github.com/rmkarato/physical-store-data-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

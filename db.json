@@ -1,0 +1,32 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "label": "Magalu",
+      "logo": "link",
+      "phone": "11982377483",
+      "rating": "4",
+      "favorite": true,
+      "time": {
+        "open": "7am",
+        "close": "10pm"
+      },
+      "localization": {
+        "lat": 1,
+        "lng": 2
+      },
+      "address": {
+        "street": "Av. Interlagos, 2255",
+        "zipcode": "04661-200",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    }
+  ],
+  "discounts": [
+      {
+        "store": 1,
+        "percentage": 14
+      }
+    ]
+}
