@@ -2,31 +2,256 @@
   "stores": [
     {
       "id": 1,
-      "label": "Magalu",
-      "logo": "link",
-      "phone": "11982377483",
+      "label": "Magazine Luiza",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Magalu_-_novo_logo.png",
       "rating": "4",
       "favorite": true,
-      "time": {
-        "open": "7am",
-        "close": "10pm"
-      },
-      "localization": {
-        "lat": 1,
-        "lng": 2
-      },
-      "address": {
-        "street": "Av. Interlagos, 2255",
-        "zipcode": "04661-200",
-        "city": "São Paulo",
-        "state": "SP"
-      }
+      "category": [
+        "varejo",
+        "departamento"
+      ],
+      "addresses": [
+        {
+          "street": "R. Silva Bueno, 2342",
+          "zipcode": "04208-002",
+          "city": "São Paulo",
+          "state": "SP",
+          "localization": {
+            "lat": -23.599371633852606, 
+            "lng": -46.600732703242016
+          },
+          "phone": "11 2219-8100",
+          "time": {
+            "open": "9am",
+            "close": "20pm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Centauro",
+      "logo": "http://revistapress.com.br/wp-content/uploads/2018/12/centauro-logo.png",
+      "rating": "5",
+      "favorite": false,
+      "category": [
+        "moda",
+        "esporte"
+      ],
+      "addresses": [
+        {
+          "street": "Av. Mário Ypiranga",
+          "zipcode": "69057-015",
+          "city": "Manaus",
+          "state": "AM",
+          "localization": {
+            "lat": -3.10405755,
+            "lng": -60.01128576589144
+          },
+          "phone": "92 3878-6055",
+          "time": {
+            "open": "10am",
+            "close": "22pm"
+          }
+        },
+        {
+          "street": "Av. Djalma Batista, 482",
+          "zipcode": "69050-010",
+          "city": "Manaus",
+          "state": "AM",
+          "localization": {
+            "lat": -3.0940517, 
+            "lng": -60.0223221
+          },
+          "phone": "92 3878-6041",
+          "time": {
+            "open": "10am",
+            "close": "22pm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Marisa",
+      "logo": "https://images2.marisa.com.br/medias/sys_master/images/images/h51/hb8/10800131768350/logo-nova-marisa.svg",
+      "rating": "4",
+      "favorite": true,
+      "category": [
+        "moda"
+      ],
+      "addresses": [
+        {
+          "street": "Av. Augusto de Lima, 1684",
+          "zipcode": "30190-003",
+          "city": "Belo Horizonte",
+          "state": "MG",
+          "localization": {
+            "lat": -19.920585953835403, 
+            "lng": -43.9522056318508
+          },
+          "phone": "31 3878-3350",
+          "time": {
+            "open": "9am",
+            "close": "20pm"
+          }
+        },
+        {
+          "street": "Avenida Tancredo Neves, 3133",
+          "zipcode": "41820-021",
+          "city": "Salvador",
+          "state": "BA",
+          "localization": {
+            "lat": -12.97892664459781, 
+            "lng": -38.45763539771058
+          },
+          "phone": "71 3617-4832",
+          "time": {
+            "open": "9am",
+            "close": "22pm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Atacadão",
+      "logo": "https://logodownload.org/wp-content/uploads/2018/06/atacadao-logo.png",
+      "rating": "3",
+      "favorite": false,
+      "category": [
+        "supermercado",
+        "atacado"
+      ],
+      "addresses": [
+        {
+          "street": "Rodovia BR 364, KM 5 7081, nº KM 3",
+          "zipcode": "69914-220",
+          "city": "Rio Branco",
+          "state": "AC",
+          "localization": {
+            "lat": -9.974608226166296, 
+            "lng": -67.84890811249187
+          },
+          "phone": "68 3213-7143",
+          "time": {
+            "open": "7am",
+            "close": "23pm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "McDonalds",
+      "logo": "https://img2.gratispng.com/20180816/qs/kisspng-mcdonald-s-jombor-logo-brand-mcdonald-s-city-hall-5b7560b2e6c776.2547583315344191229453.jpg",
+      "rating": "5",
+      "favorite": false,
+      "category": [
+        "restaurante",
+        "fast-food"
+      ],
+      "addresses": [
+        {
+          "street": "R. Trajano, 114",
+          "zipcode": "88010-010",
+          "city": "Florianópolis",
+          "state": "SC",
+          "localization": {
+            "lat": -27.597435566439103, 
+            "lng": -48.55092724469665
+          },
+          "phone": "",
+          "time": {
+            "open": "10am",
+            "close": "19pm"
+          }
+        },
+        {
+          "street": "Av. Jorge Schimmelpfeng, 573",
+          "zipcode": "85851-110",
+          "city": "Foz do Iguaçu",
+          "state": "PR",
+          "localization": {
+            "lat": -25.546479825175865, 
+            "lng": -54.58259172940334
+          },
+          "phone": "",
+          "time": {
+            "open": "7am",
+            "close": "5am"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Tok&Stok",
+      "logo": "https://iguatemi.com.br/patiohigienopolis/sites/patiohigienopolis/files/logo-1360262683933.png",
+      "rating": "4",
+      "favorite": true,
+      "category": [
+        "móveis",
+        "decoração"
+      ],
+      "addresses": [
+        {
+          "street": "Av. Nossa Sra. de Copacabana, 1417",
+          "zipcode": "22070-011",
+          "city": "Rio de Janeiro",
+          "state": "RJ",
+          "localization": {
+            "lat": -22.985992853463976, 
+            "lng": -43.18940307179141
+          },
+          "phone": "21 3003-3992",
+          "time": {
+            "open": "9am",
+            "close": "21pm"
+          }
+        },
+        {
+          "street": "Av. Conselheiro Nébias, 697",
+          "zipcode": "11045-003",
+          "city": "Santos",
+          "state": "SP",
+          "localization": {
+            "lat": -23.965038809673228, 
+            "lng": -46.3231506312956
+          },
+          "phone": "13 3003-3992",
+          "time": {
+            "open": "9am",
+            "close": "21am"
+          }
+        }
+      ]
     }
   ],
   "discounts": [
       {
         "store": 1,
         "percentage": 14
+      },
+      {
+        "store": 2,
+        "percentage": 20
+      },
+      {
+        "store": 3,
+        "percentage": 10
+      },
+      {
+        "store": 4,
+        "percentage": 12
+      },
+      {
+        "store": 5,
+        "percentage": 18
+      },
+      {
+        "store": 6,
+        "percentage": 5
       }
     ]
 }
