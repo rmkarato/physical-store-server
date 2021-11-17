@@ -31,7 +31,7 @@
     {
       "id": 2,
       "label": "Centauro",
-      "logo": "http://revistapress.com.br/wp-content/uploads/2018/12/centauro-logo.png",
+      "logo": "https://logodownload.org/wp-content/uploads/2017/08/centauro-logo.png",
       "rating": "5",
       "favorite": false,
       "category": [
@@ -74,7 +74,7 @@
     {
       "id": 3,
       "label": "Marisa",
-      "logo": "https://images2.marisa.com.br/medias/sys_master/images/images/h51/hb8/10800131768350/logo-nova-marisa.svg",
+      "logo": "https://d3a0dcqzwu0eh0.cloudfront.net/images/350_oglwvjmzcfk1zfpo021p.jpg",
       "rating": "4",
       "favorite": true,
       "category": [
@@ -144,7 +144,7 @@
     {
       "id": 5,
       "label": "McDonalds",
-      "logo": "https://img2.gratispng.com/20180816/qs/kisspng-mcdonald-s-jombor-logo-brand-mcdonald-s-city-hall-5b7560b2e6c776.2547583315344191229453.jpg",
+      "logo": "https://www.pragmatismopolitico.com.br/wp-content/uploads/2013/01/mcdonalds-denuncia.png",
       "rating": "5",
       "favorite": false,
       "category": [
@@ -226,32 +226,86 @@
           }
         }
       ]
+    },
+    {
+      "id": 7,
+      "label": "Boticário",
+      "logo": "https://logospng.org/wp-content/uploads/boticario.jpg",
+      "rating": "3",
+      "favorite": true,
+      "category": [
+        "beleza",
+        "perfumaria"
+      ],
+      "addresses": [
+        {
+          "street": "Av. Dr. João Medeiros Filho, 2774",
+          "zipcode": "59110-200",
+          "city": "Natal",
+          "state": "RN",
+          "localization": {
+            "lat": -5.658274708206667, 
+            "lng": -36.60971539806325
+          },
+          "phone": "84 3673-5650",
+          "time": {
+            "open": "9am",
+            "close": "18pm"
+          }
+        },
+        {
+          "street": "R. Prof. Pedro Viriato Parigot de Souza, 600",
+          "zipcode": "81200-100",
+          "city": "Curitiba",
+          "state": "PR",
+          "localization": {
+            "lat": -25.43524380612381, 
+            "lng": -49.31575959502853
+          },
+          "phone": "41 98778-3173",
+          "time": {
+            "open": "10am",
+            "close": "22pm"
+          }
+        }
+      ]
     }
   ],
   "discounts": [
       {
         "store": 1,
-        "percentage": 14
+        "percentage": 14,
+        "expires_in": "12/31/2021"
       },
       {
         "store": 2,
-        "percentage": 20
+        "percentage": 20,
+        "expires_in": "12/31/2021"
       },
       {
         "store": 3,
-        "percentage": 10
+        "percentage": 10,
+        "expires_in": "07/31/2022"
       },
       {
         "store": 4,
-        "percentage": 12
+        "percentage": 12,
+        "expires_in": "06/30/2022"
       },
       {
         "store": 5,
-        "percentage": 18
+        "percentage": 18,
+        "expires_in": "01/31/2022"
       },
       {
         "store": 6,
-        "percentage": 5
+        "percentage": 5,
+        "expires_in": "01/31/2022"
+      },
+      {
+        "store": 7,
+        "percentage": 10,
+        "expires_in": "04/30/2022"
       }
     ]
 }
