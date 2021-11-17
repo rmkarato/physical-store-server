@@ -275,37 +275,44 @@
       {
         "store": 1,
         "percentage": 14,
-        "expires_in": "12/31/2021"
+        "expires_in": "12/31/2021",
+        "coupon_code": "99885375676013"
       },
       {
         "store": 2,
         "percentage": 20,
-        "expires_in": "12/31/2021"
+        "expires_in": "12/31/2021",
+        "coupon_code": "95367688019753"
       },
       {
         "store": 3,
         "percentage": 10,
-        "expires_in": "07/31/2022"
+        "expires_in": "07/31/2022",
+        "coupon_code": "67993175885603"
       },
       {
         "store": 4,
         "percentage": 12,
-        "expires_in": "06/30/2022"
+        "expires_in": "06/30/2022",
+        "coupon_code": "57593976088613"
       },
       {
         "store": 5,
         "percentage": 18,
-        "expires_in": "01/31/2022"
+        "expires_in": "01/31/2022",
+        "coupon_code": "96988576037513"
       },
       {
         "store": 6,
         "percentage": 5,
-        "expires_in": "01/31/2022"
+        "expires_in": "01/31/2022",
+        "coupon_code": "53756998876013"
       },
       {
         "store": 7,
         "percentage": 10,
-        "expires_in": "04/30/2022"
+        "expires_in": "04/30/2022",
+        "coupon_code": "60988539756713"
       }
     ]
 }
