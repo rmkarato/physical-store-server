@@ -9,23 +9,6 @@
       "category": [
         "varejo",
         "departamento"
-      ],
-      "addresses": [
-        {
-          "street": "R. Silva Bueno, 2342",
-          "zipcode": "04208-002",
-          "city": "São Paulo",
-          "state": "SP",
-          "localization": {
-            "lat": -23.599371633852606, 
-            "lng": -46.600732703242016
-          },
-          "phone": "11 2219-8100",
-          "time": {
-            "open": "9am",
-            "close": "20pm"
-          }
-        }
       ]
     },
     {
@@ -37,38 +20,6 @@
       "category": [
         "moda",
         "esporte"
-      ],
-      "addresses": [
-        {
-          "street": "Av. Mário Ypiranga",
-          "zipcode": "69057-015",
-          "city": "Manaus",
-          "state": "AM",
-          "localization": {
-            "lat": -3.10405755,
-            "lng": -60.01128576589144
-          },
-          "phone": "92 3878-6055",
-          "time": {
-            "open": "10am",
-            "close": "22pm"
-          }
-        },
-        {
-          "street": "Av. Djalma Batista, 482",
-          "zipcode": "69050-010",
-          "city": "Manaus",
-          "state": "AM",
-          "localization": {
-            "lat": -3.0940517, 
-            "lng": -60.0223221
-          },
-          "phone": "92 3878-6041",
-          "time": {
-            "open": "10am",
-            "close": "22pm"
-          }
-        }
       ]
     },
     {
@@ -79,38 +30,6 @@
       "favorite": true,
       "category": [
         "moda"
-      ],
-      "addresses": [
-        {
-          "street": "Av. Augusto de Lima, 1684",
-          "zipcode": "30190-003",
-          "city": "Belo Horizonte",
-          "state": "MG",
-          "localization": {
-            "lat": -19.920585953835403, 
-            "lng": -43.9522056318508
-          },
-          "phone": "31 3878-3350",
-          "time": {
-            "open": "9am",
-            "close": "20pm"
-          }
-        },
-        {
-          "street": "Avenida Tancredo Neves, 3133",
-          "zipcode": "41820-021",
-          "city": "Salvador",
-          "state": "BA",
-          "localization": {
-            "lat": -12.97892664459781, 
-            "lng": -38.45763539771058
-          },
-          "phone": "71 3617-4832",
-          "time": {
-            "open": "9am",
-            "close": "22pm"
-          }
-        }
       ]
     },
     {
@@ -122,23 +41,6 @@
       "category": [
         "supermercado",
         "atacado"
-      ],
-      "addresses": [
-        {
-          "street": "Rodovia BR 364, KM 5 7081, nº KM 3",
-          "zipcode": "69914-220",
-          "city": "Rio Branco",
-          "state": "AC",
-          "localization": {
-            "lat": -9.974608226166296, 
-            "lng": -67.84890811249187
-          },
-          "phone": "68 3213-7143",
-          "time": {
-            "open": "7am",
-            "close": "23pm"
-          }
-        }
       ]
     },
     {
@@ -150,38 +52,6 @@
       "category": [
         "restaurante",
         "fast-food"
-      ],
-      "addresses": [
-        {
-          "street": "R. Trajano, 114",
-          "zipcode": "88010-010",
-          "city": "Florianópolis",
-          "state": "SC",
-          "localization": {
-            "lat": -27.597435566439103, 
-            "lng": -48.55092724469665
-          },
-          "phone": "",
-          "time": {
-            "open": "10am",
-            "close": "19pm"
-          }
-        },
-        {
-          "street": "Av. Jorge Schimmelpfeng, 573",
-          "zipcode": "85851-110",
-          "city": "Foz do Iguaçu",
-          "state": "PR",
-          "localization": {
-            "lat": -25.546479825175865, 
-            "lng": -54.58259172940334
-          },
-          "phone": "",
-          "time": {
-            "open": "7am",
-            "close": "5am"
-          }
-        }
       ]
     },
     {
@@ -193,38 +63,6 @@
       "category": [
         "móveis",
         "decoração"
-      ],
-      "addresses": [
-        {
-          "street": "Av. Nossa Sra. de Copacabana, 1417",
-          "zipcode": "22070-011",
-          "city": "Rio de Janeiro",
-          "state": "RJ",
-          "localization": {
-            "lat": -22.985992853463976, 
-            "lng": -43.18940307179141
-          },
-          "phone": "21 3003-3992",
-          "time": {
-            "open": "9am",
-            "close": "21pm"
-          }
-        },
-        {
-          "street": "Av. Conselheiro Nébias, 697",
-          "zipcode": "11045-003",
-          "city": "Santos",
-          "state": "SP",
-          "localization": {
-            "lat": -23.965038809673228, 
-            "lng": -46.3231506312956
-          },
-          "phone": "13 3003-3992",
-          "time": {
-            "open": "9am",
-            "close": "21am"
-          }
-        }
       ]
     },
     {
@@ -236,38 +74,6 @@
       "category": [
         "beleza",
         "perfumaria"
-      ],
-      "addresses": [
-        {
-          "street": "Av. Dr. João Medeiros Filho, 2774",
-          "zipcode": "59110-200",
-          "city": "Natal",
-          "state": "RN",
-          "localization": {
-            "lat": -5.658274708206667, 
-            "lng": -36.60971539806325
-          },
-          "phone": "84 3673-5650",
-          "time": {
-            "open": "9am",
-            "close": "18pm"
-          }
-        },
-        {
-          "street": "R. Prof. Pedro Viriato Parigot de Souza, 600",
-          "zipcode": "81200-100",
-          "city": "Curitiba",
-          "state": "PR",
-          "localization": {
-            "lat": -25.43524380612381, 
-            "lng": -49.31575959502853
-          },
-          "phone": "41 98778-3173",
-          "time": {
-            "open": "10am",
-            "close": "22pm"
-          }
-        }
       ]
     }
   ],
@@ -320,6 +126,223 @@
         "expires_in": "04/30/2022",
         "coupon_code": "60988539756713",
         "rules": "compras acima de R$50,00"
+      }
+    ],
+    "addresses": [
+      {
+        "store": 1,
+        "list": [
+          {
+            "street": "R. Silva Bueno, 2342",
+            "zipcode": "04208-002",
+            "city": "São Paulo",
+            "state": "SP",
+            "localization": {
+              "lat": -23.599371633852606, 
+              "lng": -46.600732703242016
+            },
+            "phone": "11 2219-8100",
+            "time": {
+              "open": "9am",
+              "close": "20pm"
+            }
+          }
+        ]
+      },
+      {
+        "store": 2,
+        "list": [
+          {
+            "street": "Av. Mário Ypiranga",
+            "zipcode": "69057-015",
+            "city": "Manaus",
+            "state": "AM",
+            "localization": {
+              "lat": -3.10405755,
+              "lng": -60.01128576589144
+            },
+            "phone": "92 3878-6055",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Av. Djalma Batista, 482",
+            "zipcode": "69050-010",
+            "city": "Manaus",
+            "state": "AM",
+            "localization": {
+              "lat": -3.0940517, 
+              "lng": -60.0223221
+            },
+            "phone": "92 3878-6041",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          }
+        ]
+      },
+      {
+        "store": 3,
+        "list": [
+          {
+            "street": "Av. Augusto de Lima, 1684",
+            "zipcode": "30190-003",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "localization": {
+              "lat": -19.920585953835403, 
+              "lng": -43.9522056318508
+            },
+            "phone": "31 3878-3350",
+            "time": {
+              "open": "9am",
+              "close": "20pm"
+            }
+          },
+          {
+            "street": "Avenida Tancredo Neves, 3133",
+            "zipcode": "41820-021",
+            "city": "Salvador",
+            "state": "BA",
+            "localization": {
+              "lat": -12.97892664459781, 
+              "lng": -38.45763539771058
+            },
+            "phone": "71 3617-4832",
+            "time": {
+              "open": "9am",
+              "close": "22pm"
+            }
+          }
+        ]
+      },
+      {
+        "store": 4,
+        "list": [
+          {
+            "street": "Rodovia BR 364, KM 5 7081, nº KM 3",
+            "zipcode": "69914-220",
+            "city": "Rio Branco",
+            "state": "AC",
+            "localization": {
+              "lat": -9.974608226166296, 
+              "lng": -67.84890811249187
+            },
+            "phone": "68 3213-7143",
+            "time": {
+              "open": "7am",
+              "close": "23pm"
+            }
+          }
+        ]
+      },
+      {
+        "store": 5,
+        "list": [
+          {
+            "street": "R. Trajano, 114",
+            "zipcode": "88010-010",
+            "city": "Florianópolis",
+            "state": "SC",
+            "localization": {
+              "lat": -27.597435566439103, 
+              "lng": -48.55092724469665
+            },
+            "phone": "",
+            "time": {
+              "open": "10am",
+              "close": "19pm"
+            }
+          },
+          {
+            "street": "Av. Jorge Schimmelpfeng, 573",
+            "zipcode": "85851-110",
+            "city": "Foz do Iguaçu",
+            "state": "PR",
+            "localization": {
+              "lat": -25.546479825175865, 
+              "lng": -54.58259172940334
+            },
+            "phone": "",
+            "time": {
+              "open": "7am",
+              "close": "5am"
+            }
+          }
+        ]
+      },
+      {
+        "store": 6,
+        "list": [
+          {
+            "street": "Av. Nossa Sra. de Copacabana, 1417",
+            "zipcode": "22070-011",
+            "city": "Rio de Janeiro",
+            "state": "RJ",
+            "localization": {
+              "lat": -22.985992853463976, 
+              "lng": -43.18940307179141
+            },
+            "phone": "21 3003-3992",
+            "time": {
+              "open": "9am",
+              "close": "21pm"
+            }
+          },
+          {
+            "street": "Av. Conselheiro Nébias, 697",
+            "zipcode": "11045-003",
+            "city": "Santos",
+            "state": "SP",
+            "localization": {
+              "lat": -23.965038809673228, 
+              "lng": -46.3231506312956
+            },
+            "phone": "13 3003-3992",
+            "time": {
+              "open": "9am",
+              "close": "21am"
+            }
+          }
+        ]
+      },
+      {
+        "store": 7,
+        "list": [
+          {
+            "street": "Av. Dr. João Medeiros Filho, 2774",
+            "zipcode": "59110-200",
+            "city": "Natal",
+            "state": "RN",
+            "localization": {
+              "lat": -5.658274708206667, 
+              "lng": -36.60971539806325
+            },
+            "phone": "84 3673-5650",
+            "time": {
+              "open": "9am",
+              "close": "18pm"
+            }
+          },
+          {
+            "street": "R. Prof. Pedro Viriato Parigot de Souza, 600",
+            "zipcode": "81200-100",
+            "city": "Curitiba",
+            "state": "PR",
+            "localization": {
+              "lat": -25.43524380612381, 
+              "lng": -49.31575959502853
+            },
+            "phone": "41 98778-3173",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          }
+        ]
       }
     ]
 }
