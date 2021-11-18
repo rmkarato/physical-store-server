@@ -76,6 +76,17 @@
         "beleza",
         "perfumaria"
       ]
+    },
+    {
+      "id": 8,
+      "label": "Renner",
+      "logo": "https://logodownload.org/wp-content/uploads/2014/07/renner-logo-0.png",
+      "rating": "4",
+      "favorite": true,
+      "category": [
+        "moda",
+        "beleza"
+      ]
     }
   ],
   "discounts": [
@@ -127,6 +138,13 @@
         "expires_in": "04/30/2022",
         "coupon_code": "60988539756713",
         "rules": "compras acima de R$50,00"
+      },
+      {
+        "store": 8,
+        "percentage": 10,
+        "expires_in": "04/30/2022",
+        "coupon_code": "559255345256983",
+        "rules": "compras acima de R$70,00"
       }
     ],
     "addresses": [
@@ -338,6 +356,56 @@
               "lng": -49.31575959502853
             },
             "phone": "41 98778-3173",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          }
+        ]
+      },
+      {
+        "store": 8,
+        "list": [
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
             "time": {
               "open": "10am",
               "close": "22pm"
