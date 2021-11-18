@@ -165,6 +165,81 @@
               "open": "9am",
               "close": "20pm"
             }
+          },
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Av. Mário Ypiranga",
+            "zipcode": "69057-015",
+            "city": "Manaus",
+            "state": "AM",
+            "localization": {
+              "lat": -3.10405755,
+              "lng": -60.01128576589144
+            },
+            "phone": "92 3878-6055",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Av. Djalma Batista, 482",
+            "zipcode": "69050-010",
+            "city": "Manaus",
+            "state": "AM",
+            "localization": {
+              "lat": -3.0940517, 
+              "lng": -60.0223221
+            },
+            "phone": "92 3878-6041",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
           }
         ]
       },
@@ -196,6 +271,51 @@
               "lng": -60.0223221
             },
             "phone": "92 3878-6041",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
             "time": {
               "open": "10am",
               "close": "22pm"
@@ -235,6 +355,51 @@
               "open": "9am",
               "close": "22pm"
             }
+          },
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
           }
         ]
       },
@@ -254,6 +419,51 @@
             "time": {
               "open": "7am",
               "close": "23pm"
+            }
+          },
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
             }
           }
         ]
@@ -290,6 +500,51 @@
               "open": "7am",
               "close": "5am"
             }
+          },
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
           }
         ]
       },
@@ -325,6 +580,51 @@
               "open": "9am",
               "close": "21am"
             }
+          },
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
           }
         ]
       },
@@ -356,6 +656,51 @@
               "lng": -49.31575959502853
             },
             "phone": "41 98778-3173",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Av. Industrial, 600",
+            "zipcode": "09080-500",
+            "city": "Santo André",
+            "state": "SP",
+            "localization": {
+              "lat": -23.64810343839749,  
+              "lng": -46.5318561448151
+            },
+            "phone": "11 2898-0770",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "Alameda Terracota, 545",
+            "zipcode": "09531-190",
+            "city": "São Caetano do Sul",
+            "state": "SP",
+            "localization": {
+              "lat": -23.625452648772544, 
+              "lng": -46.58014030164411 
+            },
+            "phone": "11 2187-0940",
+            "time": {
+              "open": "10am",
+              "close": "22pm"
+            }
+          },
+          {
+            "street": "R. Manoel da Nóbrega, 712",
+            "zipcode": "09910-720",
+            "city": "Diadema",
+            "state": "SP",
+            "localization": {
+              "lat": -23.691394329947276, 
+              "lng": -46.623340160846325
+            },
+            "phone": "11 2526-2350",
             "time": {
               "open": "10am",
               "close": "22pm"
